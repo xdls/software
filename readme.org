@@ -1,1 +1,9 @@
 #+TITLE: 软件推荐
+* 阅读软件
+  :PROPERTIES:
+  :ID:       2bb2e106-a0c8-473d-ba61-ef5a6dc8d423
+  :END:
+  |        |   |
+  |--------+---|
+  | [[https://getpocket.com/my-list][pocket]] |   |
+  |        |   |
