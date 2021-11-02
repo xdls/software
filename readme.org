@@ -3,21 +3,8 @@
   :PROPERTIES:
   :ID:       2bb2e106-a0c8-473d-ba61-ef5a6dc8d423
   :END:
-  |                   | 网址                      |
-  |-------------------+---------------------------|
-  | [[id:70987ae1-c620-48f6-b5f3-acfb468664dc][pocket]]            | https://getpocket.com/    |
-  | [[id:fe7ab295-d8e1-4b78-9813-0ec93d3f25a5][Markdown TO Video]] | http://mdvideo.gshll.com/ |
-  |                   |                           |
-* pocket
-  :PROPERTIES:
-  :ID:       70987ae1-c620-48f6-b5f3-acfb468664dc
-  :END:
-  |   |   |
-  |---+---|
-  |   |   |
-* Markdown To Video
-  :PROPERTIES:
-  :ID:       fe7ab295-d8e1-4b78-9813-0ec93d3f25a5
-  :END:
-一个将 markdown 文档转为视频的便捷工具
-
+  |                   | 网址                      | 简介                                   |
+  |-------------------+---------------------------+----------------------------------------|
+  | pocket            | https://getpocket.com/    |                                        |
+  | Markdown TO Video | http://mdvideo.gshll.com/ | 一个将 markdown 文档转为视频的便捷工具 |
+  |                   |                           |                                        |
